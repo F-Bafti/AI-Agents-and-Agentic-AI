@@ -20,8 +20,3 @@ Each notebook includes:
   - Replace OpenAI calls with `Cohere` via `LiteLLM`
   - Use LangChain wrappers and components
 
-## 🛠 How to Use
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
